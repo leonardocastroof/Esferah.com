@@ -1,2 +1,2 @@
-# Esferah.com
+# Esferah
 Projeto do site da Esferah.
